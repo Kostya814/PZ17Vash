@@ -35,6 +35,7 @@ public partial class MainWindow : Window
                     user.Name = reader.GetString(1);
                     user.Age = reader.GetInt16(4);
                     data.Add(user);
+                    //asdas
                 }
             }
             sqlConnection.Close();
