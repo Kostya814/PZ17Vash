@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PZ17Vash", "PZ17Vash\PZ17Vash.csproj", "{717F0E8B-0226-4E4C-87B5-2B73DB16213E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{717F0E8B-0226-4E4C-87B5-2B73DB16213E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{717F0E8B-0226-4E4C-87B5-2B73DB16213E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{717F0E8B-0226-4E4C-87B5-2B73DB16213E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{717F0E8B-0226-4E4C-87B5-2B73DB16213E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

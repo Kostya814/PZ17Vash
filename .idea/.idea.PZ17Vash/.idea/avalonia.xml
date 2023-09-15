@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="PZ17Vash/App.axaml" value="PZ17Vash/PZ17Vash.csproj" />
+        <entry key="PZ17Vash/MainWindow.axaml" value="PZ17Vash/PZ17Vash.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
