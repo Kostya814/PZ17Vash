@@ -1,0 +1,34 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="300" d:DesignHeight="150"
+        x:Class="PZ17Vash.WindowData"
+        Title="WindowData">
+    <DockPanel>
+        <StackPanel
+            Orientation="Vertical"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center"
+            DockPanel.Dock="Left"
+        >
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Имя" Margin="5"/>
+                <TextBlock Text="Возраст" Margin="5"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBox Text="Имя" Margin="10"/>
+                <TextBox Text="Возраст" Margin="10"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Button Content="Ок" Margin="10"/>
+                <Button Content="Отмена" Margin="10"/>
+            </StackPanel>
+        </StackPanel>
+        <ComboBox Name = "ComboBox"
+                  VerticalAlignment="Center" 
+                  HorizontalAlignment="Center"/>
+        
+    </DockPanel>
+    
+</Window>

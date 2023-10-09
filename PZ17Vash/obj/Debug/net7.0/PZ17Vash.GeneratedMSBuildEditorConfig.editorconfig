@@ -13,10 +13,19 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PZ17Vash
-build_property.ProjectDir = /home/KHPK.RU/student/RiderProjects/PZ17Vash/PZ17Vash/
+build_property.ProjectDir = C:\Users\Kostya\RiderProjects\PZ17Vash\PZ17Vash\
 
-[/home/KHPK.RU/student/RiderProjects/PZ17Vash/PZ17Vash/App.axaml]
+[C:/Users/Kostya/RiderProjects/PZ17Vash/PZ17Vash/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/home/KHPK.RU/student/RiderProjects/PZ17Vash/PZ17Vash/MainWindow.axaml]
+[C:/Users/Kostya/RiderProjects/PZ17Vash/PZ17Vash/MainWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Kostya/RiderProjects/PZ17Vash/PZ17Vash/SecondWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Kostya/RiderProjects/PZ17Vash/PZ17Vash/ThirdWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/Kostya/RiderProjects/PZ17Vash/PZ17Vash/WindowData.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml

@@ -5494,19 +5494,19 @@
     ]
   },
   "packageFolders": {
-    "/home/KHPK.RU/student/.nuget/packages/": {}
+    "C:\\Users\\Kostya\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/KHPK.RU/student/RiderProjects/PZ17Vash/PZ17Vash/PZ17Vash.csproj",
+      "projectUniqueName": "C:\\Users\\Kostya\\RiderProjects\\PZ17Vash\\PZ17Vash\\PZ17Vash.csproj",
       "projectName": "PZ17Vash",
-      "projectPath": "/home/KHPK.RU/student/RiderProjects/PZ17Vash/PZ17Vash/PZ17Vash.csproj",
-      "packagesPath": "/home/KHPK.RU/student/.nuget/packages/",
-      "outputPath": "/home/KHPK.RU/student/RiderProjects/PZ17Vash/PZ17Vash/obj/",
+      "projectPath": "C:\\Users\\Kostya\\RiderProjects\\PZ17Vash\\PZ17Vash\\PZ17Vash.csproj",
+      "packagesPath": "C:\\Users\\Kostya\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kostya\\RiderProjects\\PZ17Vash\\PZ17Vash\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/KHPK.RU/student/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Kostya\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -5581,7 +5581,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

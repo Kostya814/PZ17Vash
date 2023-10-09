@@ -1,0 +1,32 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:modelss="clr-namespace:PZ17Vash.Modelss"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="PZ17Vash.ThirdWindow"
+        Title="ThirdWindow">
+        <StackPanel
+                Orientation="Vertical"
+        >
+                <DataGrid  AutoGenerateColumns="False"
+                           Name="DataGrid"
+                           Width=""
+                           Height=""
+                           GridLinesVisibility="All"
+                           BorderBrush="Black"
+                
+                           x:DataType="modelss:Address"
+                >
+                        <DataGrid.Columns>
+                                <DataGridTextColumn  Header="ID" Binding="{Binding Id}"/>
+                                <DataGridTextColumn Header="Name" Binding="{Binding NameCity1}"/>
+                                <DataGridTextColumn Header="Street" Binding="{Binding StreetId}"/>
+                        </DataGrid.Columns>
+                </DataGrid>
+                <Button Name="closeWindow"
+                        Click="CloseWindow"
+                        Content="Назад"
+                        Margin="0,10,0,0"/>
+        </StackPanel>
+</Window>

@@ -5,6 +5,10 @@
       <map>
         <entry key="PZ17Vash/App.axaml" value="PZ17Vash/PZ17Vash.csproj" />
         <entry key="PZ17Vash/MainWindow.axaml" value="PZ17Vash/PZ17Vash.csproj" />
+        <entry key="PZ17Vash/SecondWindow.axaml" value="PZ17Vash/PZ17Vash.csproj" />
+        <entry key="PZ17Vash/Third.axaml" value="PZ17Vash/PZ17Vash.csproj" />
+        <entry key="PZ17Vash/ThirdWindow.axaml" value="PZ17Vash/PZ17Vash.csproj" />
+        <entry key="PZ17Vash/WindowData.axaml" value="PZ17Vash/PZ17Vash.csproj" />
       </map>
     </option>
   </component>
