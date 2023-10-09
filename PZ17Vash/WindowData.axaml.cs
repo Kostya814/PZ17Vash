@@ -6,7 +6,7 @@ namespace PZ17Vash;
 
 public partial class WindowData : Window
 {
-    public 
+   
     public WindowData()
     {
         InitializeComponent();
